@@ -4,7 +4,7 @@ Prerequesites, get your API token to allow for read and writing to Cloudflare wi
 
 *Remember to safeguard your API token, do not post or share.*
 
-This bash script works on Mac or other *nix systems. It will check your IPv4 and IPv6 against the registered dns_record in the domain zone_name in the Cloudflare DNS.
+This bash script works on Mac or other *nix systems. It will check your IPv4 and IPv6 against the registered dns_record in the domain zone_name in the Cloudflare DNS. If either IPv4 and/or IPv6 is different it will update, otherwise it will leave as is.
 
 # initial data that needs to be filled in by the user
 ## API token
