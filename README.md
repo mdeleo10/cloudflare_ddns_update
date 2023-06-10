@@ -1,4 +1,4 @@
-# cloudflare_ddns_update
+# cloudflare_ddns_update.sh
 
 Prerequesites, get your API token to allow for read and writing to Cloudflare with the zone_name. For more information on how to create, see the Cloudflare documentation at: https://developers.cloudflare.com/fundamentals/api/get-started/create-token/
 
