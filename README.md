@@ -8,13 +8,13 @@ This bash script works on Mac or other *nix systems. It will check your IPv4 and
 
 # initial data that needs to be filled in by the user
 ## API token
-api_token=<Use your own API token>
+api_token=Use your own API token
 ## email address associated with the Cloudflare account (seems to be optional)
-email=<Your own email>
+email=Your own email
 ## the zone (domain) should be modified ex. mydomain.com
-zone_name=<your domain>
+zone_name=your domain
 ## the dns record (sub-domain) should be modified ex. myhost.mydomain.com
-dns_record=<yourhost.your domain
+dns_record=yourhost.your domain
 
 # Reference
 Based on https://gist.github.com/Tras2/cba88201b17d765ec065ccbedfb16d9a
