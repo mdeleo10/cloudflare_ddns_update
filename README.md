@@ -18,3 +18,5 @@ dns_record= yourhost.your domain
 
 # Reference
 Based on https://gist.github.com/Tras2/cba88201b17d765ec065ccbedfb16d9a
+
+For Windows and Powershell scripting see https://adamtheautomator.com/cloudflare-dynamic-dns/
