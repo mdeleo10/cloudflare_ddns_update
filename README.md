@@ -2,7 +2,7 @@
 
 Prerequesites, get your API token to allow for read and writing to Cloudflare with the zone_name. For more information on how to create, see the Cloudflare documentation at: https://developers.cloudflare.com/fundamentals/api/get-started/create-token/
 
-Remember to safeguard your API token, do not post or share.
+*Remember to safeguard your API token, do not post or share.*
 
 This bash script works on Mac or other *nix systems. It will check your IPv4 and IPv6 against the registered dns_record in the domain zone_name in the Cloudflare DNS.
 
